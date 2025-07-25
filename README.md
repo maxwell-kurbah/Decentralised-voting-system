@@ -84,3 +84,5 @@ License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 Built with ❤️ for a more democratic future
+
+Contract Address: 0xEA7F4F786f305BBBF36c6E8079762dC4736eeCfC
