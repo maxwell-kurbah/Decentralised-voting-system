@@ -86,3 +86,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 Built with ❤️ for a more democratic future
 
 Contract Address: 0xEA7F4F786f305BBBF36c6E8079762dC4736eeCfC
+
+<img width="1920" height="1080" alt="Screenshot 2025-07-25 142837" src="https://github.com/user-attachments/assets/5e9f8a3e-a875-4daa-9486-d5414c6833c5" />
+
